@@ -13,3 +13,4 @@ fr-train.tsv
 # OS
 .DS_Store
 
+/sentiment_roberta_large 
