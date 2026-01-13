@@ -19,3 +19,6 @@ sentiment_roberta_large/
 *.safetensors
 
 datasets/
+
+all-mpnet-base-v2/
+
