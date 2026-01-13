@@ -13,4 +13,9 @@ fr-train.tsv
 # OS
 .DS_Store
 
-/sentiment_roberta_large 
+sentiment_roberta_large/
+*.bin
+*.pt
+*.safetensors
+
+datasets/
